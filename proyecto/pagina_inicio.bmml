@@ -1,0 +1,42 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1024" measuredH="768" mockupW="1024" mockupH="768">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1024" h="768" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Web%20Page%0Ahttp%3A//solucionesin.uni.me</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="442" y="95" w="140" h="118" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::DateChooser" x="874" y="95" w="-1" h="-1" measuredW="110" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1%20/1%20%20/14%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="273" y="219" w="478" h="-1" measuredW="472" measuredH="40" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>0</color>
+        <size>32</size>
+        <state>up</state>
+        <text>Colegio%20Cristiano%20Alfa%20y%20Omega</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Accordion" x="12" y="311" w="150" h="263" measuredW="150" measuredH="213" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Area%20de%20Usuarios%0AAdministrador%0ACatedraticos%0AResponsable%0AAlumnos</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Map" x="827" y="499" w="157" h="120" measuredW="252" measuredH="222" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="187" y="311" w="625" h="308" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>60</size>
+        <text>Informacion%20del%20colegio</text>
+        <value>12</value>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
