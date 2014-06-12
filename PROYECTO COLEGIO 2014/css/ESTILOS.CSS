@@ -1,0 +1,54 @@
+body 
+{ 
+	color : #346; 
+	background: #fff;
+	
+}
+
+
+
+
+
+#titulo
+{
+	
+
+	 
+}
+
+#contenidotitulo
+{
+	text-align: center;
+
+}
+
+#tabla1
+{
+		border:solid;
+		border-color:#000; 
+		
+}
+
+#titulo1
+{
+ 	
+ 	padding-right:80px;
+}
+
+
+#ttitulo
+{
+	background-color: #37a;
+}
+
+input
+{
+ width:50%;
+}
+
+select
+{
+	width:50%;
+}
+
+
